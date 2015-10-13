@@ -1,0 +1,20 @@
+* {
+  margin: auto;
+  padding: 10px;
+}
+
+body {
+  background-color: #CCCCB2;
+}
+
+#circImg {
+  border-radius: 50%;
+  border: 1px solid #547980;
+  height: 200px;
+  width: 200px;
+}
+
+#content {
+  border-radius: 20px;
+  background-color: #B2B299;
+}

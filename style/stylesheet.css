@@ -1,0 +1,31 @@
+div {
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+}
+
+body {
+  background-color: #CCCCB2;
+}
+
+.circImg {
+  border-radius: 50%;
+  border: 1px solid #547980;
+  height: 200px;
+  width: 200px;
+}
+
+.photo {
+  height: 200px;
+  width: 200px;
+}
+
+.header {
+  border-radius: 20px;
+  background-color: #B2B299;
+}
+
+.content {
+  border-radius: 20px;
+  background-color: #C2C2A3;
+}
